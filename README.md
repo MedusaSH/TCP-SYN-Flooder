@@ -25,8 +25,8 @@
 ### ⬇️ Installation
 ```bash
 git clone https://github.com/MedusaSH/TCP-SYN-Flooder.git
-cd TCP-SYN-Flooder
-go build -o flooder main.go
+cd TCP-SYN
+go build -o flooder tcpsyn.go
 ```
 
 ### 🚀 Utilisation
@@ -62,7 +62,7 @@ go build -o flooder main.go
 ## ❤️ Contribuer
 👥 **Envie d'améliorer le script ?** N'hésite pas à **fork**, proposer des **PRs** ou signaler des **issues** !
 
-📫 Contact : [TonEmail@exemple.com](mailto:TonEmail@exemple.com)
+📫 Contact : [TonEmail@exemple.com](mailto:medusa.cc.pro@gmail.com)
 
 🚀 **Star le repo si ce projet t'a été utile !** ⭐
 
