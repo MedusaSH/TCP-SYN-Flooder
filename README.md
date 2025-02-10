@@ -63,7 +63,6 @@ go build -o flooder tcpsyn.go
 ## ❤️ Contribuer
 👥 **Envie d'améliorer le script ?** N'hésite pas à **fork**, proposer des **PRs** ou signaler des **issues** !
 
-📫 Contact : [TonEmail@exemple.com](mailto:medusa.cc.pro@gmail.com)
-
+📫 Contact : @yfork13 sur Télégram
 🚀 **Star le repo si ce projet t'a été utile !** ⭐
 
